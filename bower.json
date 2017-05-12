@@ -1,0 +1,17 @@
+{
+    "name": "php-json-transcoder",
+    "authors": [
+        "bogdanpet <bgdnptkvc@gmail.com>"
+    ],
+    "description": "Transcode JSON to PHP array and vice versa",
+    "main": "index.php",
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
